@@ -3,6 +3,11 @@ Juncture visual essays
 
 # Hello, Juncture
 
+<param ve-image
+       url="https://github.com/ras1823/essays/blob/db898b6cb76e6477afee2f4cbd8e873d673b063c/CJ2.jpg
+      label="Photograph of lichens found on a tree in the Middle Temple Estate ©"  
+      attribution="Kate Jenrick, April 2026">
+
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
 ## Aulacophora indica
