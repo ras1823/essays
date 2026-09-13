@@ -3,7 +3,7 @@
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="https://github.com/ras1823/essays/blob/c8bb16fcfdb13e9f789ecc1cea5a7a6489732d42/CJ2.jpg" 
+       banner="https://github.com/ras1823/essays/raw/c8bb16fcfdb13e9f789ecc1cea5a7a6489732d42/CJ2.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
